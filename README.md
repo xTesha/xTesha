@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4vdJF3-gyqzI9EvaBkORWtDpSGSANuC0tjMm0MsdfnmprrnPewTlNh7PYCyis45uhnw&usqp=CAU))]
 <h1 align="center">Hi 👋, I'm Andrija Tešović</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4vdJF3-gyqzI9EvaBkORWtDpSGSANuC0tjMm0MsdfnmprrnPewTlNh7PYCyis45uhnw&usqp=CAU">
