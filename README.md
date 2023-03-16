@@ -1,3 +1,4 @@
+(https://static.wixstatic.com/media/eb4480_7684fe43dee0429992132f22894284d7~mv2.gif)
 <h1 align="center">Hi 👋, I'm Andrija Tešović</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/eb4480_7684fe43dee0429992132f22894284d7~mv2.gif">
