@@ -1,7 +1,6 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4vdJF3-gyqzI9EvaBkORWtDpSGSANuC0tjMm0MsdfnmprrnPewTlNh7PYCyis45uhnw&usqp=CAU))]
 <h1 align="center">Hi 👋, I'm Andrija Tešović</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4vdJF3-gyqzI9EvaBkORWtDpSGSANuC0tjMm0MsdfnmprrnPewTlNh7PYCyis45uhnw&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4vdJF3-gyqzI9EvaBkORWtDpSGSANuC0tjMm0MsdfnmprrnPewTlNh7PYCyis45uhnw&usqp=CAU](https://static.wixstatic.com/media/eb4480_7684fe43dee0429992132f22894284d7~mv2.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xtesha&label=Profile%20views&color=0e75b6&style=flat" alt="xtesha" /> </p>
 
