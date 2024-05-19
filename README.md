@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xtesha&label=Profile%20views&color=0e75b6&style=flat" alt="xtesha" /> </p>
 
-- 🌱 I’m currently learning **Javascript, heading after on React!**
+- 🌱 I’m currently learning **React!**
 
 - 👯 I’m looking to collaborate with **Mentors**
 
